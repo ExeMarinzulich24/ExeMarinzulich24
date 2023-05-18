@@ -1,6 +1,9 @@
+
+
+![Header](./img/github-header-image.png)
 ### Hola 👋, Mi nombre es Exequiel
-#### Bienvenido a mi Repositorio de Github!
-![Bienvenido a mi Repositorio de Github!]![Header](./img/github-header-image.png)
+
+
 
 
 
