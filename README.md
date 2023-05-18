@@ -1,16 +1,15 @@
-### Hi there 👋
+👋🏻 Hey! Nice to see you Welcome ♥
 
-<!--
-**ExeMarinzulich24/ExeMarinzulich24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my page!
+👋🏼 Hi, I'm Exequiel, Fullstack Developer from  Ciudad de Buenos Aires - Argentina
+🧉 I'm currently learning English and .NET
+🏊🏼‍♂️ I love swimming and going to the gym
+🐱‍👤 Take a look and feel free to contact me
+👨🏻‍💻 Things I code with
+Javascript Typescript Nodejs React Redux Jest
+🤖 Things I like to use
+Git MongoDB Sequelize Heroku ESLint
+Express Socket.io
+🌎 Contact
+LinkedIn
